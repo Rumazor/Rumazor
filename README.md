@@ -7,7 +7,7 @@ Vivo en Lima, Peru. Me gusta mucho la musica, la buena comida, un buen cafe y ha
 
 ### Contactame
 <a href="mailto:th3rum2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/rumazor/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://ruma-portfolio.netlify.app"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
+<!-- <a href="https://ruma-portfolio.netlify.app"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>  -->
 
 
 
