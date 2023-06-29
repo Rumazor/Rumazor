@@ -11,5 +11,3 @@ Vivo en Lima, Peru. Me gusta mucho la musica, la buena comida, un buen cafe y ha
 
 
 
-
-![Ruma's GitHub stats](https://github-readme-stats.vercel.app/api?username=rumazor&theme=dark&show_icons=true)
